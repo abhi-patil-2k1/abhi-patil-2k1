@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Computer Engineering Graduate from Pune University (CGPA: 8.66/10)
+- 🎓 Computer Engineering Graduate from Pune University
 - 🏗️ **Solution Architect & AI Architect** @IntraIntel.ai | RoarTechnic USA Limited
 - 🤖 Specialized in **LLM-centric architectures**, RAG pipelines, and AI agent orchestration
 - ☁️ Multi-cloud expert (GCP, AWS, Azure) with hands-on experience in microservices architecture
